@@ -5,7 +5,7 @@ Full Stack Web Developer | La Cumbre, Córdoba, Argentina
 
 - *Email:* facundolizardo75@gmail.com
 - *Phone:* (54) 3548-412165
-- *LinkedIn:* [Linkedin Profile](https://www.linkedin.com/in/facundo-lizardo-639650283/)
+- *LinkedIn:* [Linkedin Profile](https://www.linkedin.com/in/facundolizardo/)
 - *Portfolio:* [Portfolio-working on it](working on it)
 - *CV:*: [Curriculum Vitae](https://docs.google.com/document/d/1ZFe7vaJfPOXd_lmddXrbIjsafCzxjSk5vcgBnBeCY9I)
 
