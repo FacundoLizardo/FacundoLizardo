@@ -23,6 +23,5 @@ Full Stack Web Developer | La Cumbre, Córdoba, Argentina
 - Spanish - Native
 - English - C1
 
-https://docs.google.com/document/d/1ZFe7vaJfPOXd_lmddXrbIjsafCzxjSk5vcgBnBeCY9I/edit
 
 
