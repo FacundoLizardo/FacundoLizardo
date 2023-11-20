@@ -9,6 +9,9 @@ Full Stack Web Developer | La Cumbre, Córdoba, Argentina
 - *Portfolio:* [Portfolio](working on it)
 - *CV:*: [Curriculum Vitae](https://docs.google.com/document/d/1ZFe7vaJfPOXd_lmddXrbIjsafCzxjSk5vcgBnBeCY9I)
 
+  ### Most recent proyect
+ - https://educastream.vercel.app/
+
 ### Education
 
 - Full Stack WEB Developer | Henry | 2023
