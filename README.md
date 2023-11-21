@@ -11,7 +11,7 @@ Full Stack Web Developer | La Cumbre, Córdoba, Argentina
 
 
   ### Most recent proyect
- | [<img src="./Educastream.PNG" alt="educaStream" width="250">](https://educastream.vercel.app/) |
+  [<img src="./Educastream.PNG" alt="educaStream" width="250">](https://educastream.vercel.app/) 
 
 
 
