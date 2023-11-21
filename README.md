@@ -12,6 +12,9 @@ Full Stack Web Developer | La Cumbre, Córdoba, Argentina
 
   ### Most recent proyect
  | [<img src="./educaStream.jpg" alt="educaStream" width="250">](https://educastream.vercel.app/) |
+
+
+| [<img src="./educaStream.jpg" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="./pokeapi.jpg" alt="pokeapi" width="250">](https://pokeapp-three-beta.vercel.app/) | [<img src="./rickandmorty.jpg" alt="rickandmorty" width="250">](https://rickandmorty-gold.vercel.app/) |
 |---|---|---|
 ### Education
 
