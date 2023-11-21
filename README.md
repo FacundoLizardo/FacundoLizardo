@@ -9,6 +9,8 @@ Full Stack Web Developer | La Cumbre, Córdoba, Argentina
 - *Portfolio:* [Portfolio](working on it)
 - *CV:*: [Curriculum Vitae](https://docs.google.com/document/d/1ZFe7vaJfPOXd_lmddXrbIjsafCzxjSk5vcgBnBeCY9I)
 
+| [<img src="./educaStream.jpg" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="./pokeapi.jpg" alt="pokeapi" width="250">](https://pokeapp-three-beta.vercel.app/) | [<img src="./rickandmorty.jpg" alt="rickandmorty" width="250">](https://rickandmorty-gold.vercel.app/) |
+|---|---|---|
   ### Most recent proyect
  - https://educastream.vercel.app/
 
